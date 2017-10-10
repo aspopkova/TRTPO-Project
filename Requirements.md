@@ -1,36 +1,36 @@
-<h2> User Requirements </h2>
-<h3> Software Interfaces </h3>
+<h2> Требования пользователя </h2>
+<h3> Программные интерфейсы </h3>
 
-The project will interact with darksky.net for receiving current weather data.
+Разрабатываемый проект будет взаимодействовать с сайтом darksky.net для получения актуальных данных о погоде. 
 
-<h3> User Interfaces </h3>
+<h3> Интерфейс пользователя </h3>
 
-When application is launched, the user will see the typing area a place name input and a button for a weather forecast research in the place needed. If the search for the place needed is successfully completed, a list of results representing the weather forecast for the week will appear.
+При запуске приложения пользователь увидит текстовое поле для ввода названия города и, соответственно, кнопку для поиска прогноза погоды в нем. При успешном завершении операции поиска указанного города появится список результатов, которые будут представлять собой прогноз погоды на неделю.
 
-<h3> User Characteristics </h3>
+<h3> Характеристики пользователей </h3>
  
-This application is designed for a wide audience because it does not require special skills or a technical knowledge. Thanks to the simple and intuitive interface, the user will be able to work with the application immediately.
-Target audience: people 15-60 years old following weather forecasts with the help of mobile applications.
+Данное приложение рассчитано на широкую аудиторию, так как не требует особых навыков или технической подкованности. Благодаря простому и интуитивно понятному интерфейсу, пользователь сразу сможет начать работу с приложением.
+Целевая аудитория: люди в возрасте 15-60 лет, которые следят за прогнозом погоды, используя мобильные приложения. 
 
-<h3> Assumptions and Dependencies </h3>
+<h3> Предположения и зависимости </h3>
 
-Some of the small towns may be unavailable.
+Некоторые маленькие города могут отсутствовать в системе.
 
-<h2> System Requirements </h2>
+<h2> Системные требования </h2>
 
-For the application to be launched the mobile device with iOS 10.2 and above is required.
+Для запуска приложения необходимо мобильное устройство с операционной системой iOS версии 10.2 и выше.
 
-<h3> Functional Requirements </h3>
+<h3> Функциональные требования </h3>
 
-1) The ability of getting information on request
-2) The ability of working in any country of the world
+1) Возможность получения информации по запросу
+2) Возможность работы в любой стране мира
 
-<h3> Non-Functional Requirements </h3>
+<h3> Нефункциональные требования </h3>
 
-1) Simple and convenient interface is an important criterion for better product distribution. 
-2) Security. As the application works with the internet, it is necessary to exclude user's personal data leak into the public access.
+1) Удобный и простой интерфейс является важным критерием для наилучшего распространения продукта
+2) Безопасность. Так как приложение работает с интернетом, необходимо исключить утечку личных данных пользователя в общественный доступ. 
 
-<h2> Analogs </h2>
+<h2> Аналоги </h2>
 
 1) Weather forecast - 10 days forecast
 2) Weather forecast !
