@@ -2,6 +2,6 @@
 
 <h1> WeatherApp for iOS </h1>
 
-WeatherApp is mobile application for the iOS, which is going to give a user a weather forecast in a particular place for a week.
+WeatherApp - мобильное приложение под операционную систему iOS, которое предоставляет пользователю информацию о погоде в интересующем его городе на неделю, исходя из данных интернет-сервиса Dark Sky.
 
 
