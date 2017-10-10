@@ -35,3 +35,7 @@
 1) Weather forecast - 10 days forecast
 2) Weather forecast !
 3) 10 Day UK Weather forecast
+
+<h2> Mockup </h2>
+
+![mockup](https://user-images.githubusercontent.com/31726797/31386910-2dc38788-add1-11e7-945a-9a843e653f96.png)
