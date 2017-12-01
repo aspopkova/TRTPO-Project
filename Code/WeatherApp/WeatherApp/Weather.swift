@@ -65,15 +65,6 @@ struct Weather {
         
         task.resume()
         
-        
-        
-        
-        
-        
-        
-        
-        
     }
-    
     
 }
